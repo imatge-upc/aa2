@@ -219,3 +219,9 @@ __marimo__/
 
 # macOS folder metadata
 .DS_Store
+
+# Notebook scratch files
+/notebooks/scratch.ipynb
+/notebooks/scratch_output/
+/notebooks/prompts/
+/notebooks/data/
