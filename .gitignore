@@ -221,7 +221,6 @@ __marimo__/
 .DS_Store
 
 # Notebook scratch files
-/notebooks/scratch.ipynb
-/notebooks/scratch_output/
+/notebooks/scratch/
 /notebooks/prompts/
 /notebooks/data/
